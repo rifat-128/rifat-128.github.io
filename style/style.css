@@ -1,0 +1,70 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-container{
+    background-color: #7952B3;
+    /* background-image: url("/img/GRADUATION-removebg-preview.png"); */
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.banner-column{
+    background-color: rgba(204, 236, 252, 0.123);
+}
+.navbar-container{
+    background-color: #6C757E;
+}
+.about-container{
+    background-color: #7952B3;
+}
+p{
+    text-align: justify;
+}
+#rifat{
+    width: 400px;
+    height: max-content;
+}
+.education-container{
+    background-color: #cac8c6;
+
+}
+.bg-red-type{
+    color:  rgb(218, 24, 40);
+}
+.circle{
+    background-color: rgb(218, 24, 40) ;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.project-container{
+    background-color: #7952B3;
+}
+.portfolio-container{
+    background-color: #ee70ce;
+}
+.form-container{
+    background-color: #0E0E12;
+}
+.button{
+    background-color: aqua;
+}
+.button:hover{
+    background-color: #ee70ce;
+    color: #0E0E12;
+}
+.footer-container{
+    background-color: aquamarine;
+}
+
+.fcircle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: white;
+    display: inline-block;
+    font-size: 40px;
+    text-align: center;
+}
+.fcircle:hover{
+    background-color: lightblue;
+}
